@@ -5,9 +5,7 @@ let result = [];
 for (let line of lines) {
     line = line.trim();
 
-    if (!line || line.startsWith("#") || line === "payload:") {
-        continue;
-    }
+    if (!line || line.startsWith("#") || line === "payload:") continue;
 
     line = line.replace(/^-\s*/, "").trim();
     line = line.replace(/^['"]|['"]$/g, "");
@@ -15,15 +13,13 @@ for (let line of lines) {
     if (!line) continue;
 
     if (line.startsWith("+.")) {
-        result.push("host-suffix," + line.substring(2));
-    } else if (/^[0-9a-fA-F:.]+\/\d+$/.test(line)) {
-        if (line.includes(":")) {
-            result.push("ip6-cidr," + line);
-        } else {
-            result.push("ip-cidr," + line);
-        }
+        result.push("host-suffix," + line.substring(2) + ",proxy");
+    } else if (/^[0-9.]+\/\d+$/.test(line)) {
+        result.push("ip-cidr," + line + ",proxy");
+    } else if (/^[0-9a-fA-F:]+\/\d+$/.test(line)) {
+        result.push("ip6-cidr," + line + ",proxy");
     } else {
-        result.push("host," + line);
+        result.push("host," + line + ",proxy");
     }
 }
 
