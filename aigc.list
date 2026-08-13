@@ -1,0 +1,9 @@
+payload:
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - '+.oaistatsig.com'
+  - '+.openaimerge.com'
+  - '+.anthropic.com'
+  - '+.claude.ai'
