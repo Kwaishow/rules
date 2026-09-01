@@ -1,4 +1,6 @@
 payload:
+  - 'cable.auth.com'
+  - 'cable.ua5v.com'
   - '+.acgnx.se'
   - '+.mercari.com'
   - '+.mercari.jp'
