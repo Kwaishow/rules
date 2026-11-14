@@ -1,4 +1,7 @@
 payload:
+  - '+.cdn.update.playstation.org.edgesuite.net'
+  - '+.dl.playstation.net'
+  - '+.update.playstation.net'
   - '+.1rtb.com'
   - '+.1rtb.net'
   - '+.300hu.com'
