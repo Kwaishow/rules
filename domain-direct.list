@@ -107,6 +107,8 @@ payload:
   - '+.pool.ntp.org'
   - '+.pstatp.com'
   - '+.pubmatic.com'
+  - '+.qbittorrent.github.io'
+  - '+.qbittorrent.org'
   - '+.qhimg.com'
   - '+.qhres2.com'
   - '+.rapidssl.com'
