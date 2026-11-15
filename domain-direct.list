@@ -105,6 +105,7 @@ payload:
   - '+.outlook.com'
   - '+.overwolf.com'
   - '+.pool.ntp.org'
+  - 'proxy.safebrowsing.apple'
   - '+.pstatp.com'
   - '+.pubmatic.com'
   - '+.qbittorrent.github.io'
