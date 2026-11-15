@@ -114,7 +114,7 @@ payload:
   - '+.rlcdn.com'
   - '+.rockstargames.com'
   - '+.rsg.sc'
-  - 'service.signalr.net'
+  - '+.service.signalr.net'
   - '+.sharepoint.com'
   - '+.sina.com.cn'
   - '+.sinaimg.cn'
