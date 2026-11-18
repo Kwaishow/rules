@@ -336,6 +336,7 @@ payload:
   - '+.toutiaocdn.com'
   - '+.toutiaoimg.com'
   - '+.toutiaostatic.com'
+  - 'trace.rtbasia.com'
   - '+.ubixioe.com'
   - '+.unionpay.com'
   - '+.unionpay.net'
