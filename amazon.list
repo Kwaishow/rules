@@ -1,5 +1,7 @@
 payload:
   - '+.aboutamazon.com'
+  - 'ac1ff26b0e88c67d9acfb15cd966b2426.profile.man51-p6.cloudfront.net'
+  - 'ac1ff26b0e88c67d9acfb15cd966b2426.profile.yto53-p1.cloudfront.net'
   - '+.amazon-adsystem.com'
   - '+.amazon.ae'
   - '+.amazon.ca'
@@ -42,7 +44,10 @@ payload:
   - '+.audible.in'
   - '+.audible.it'
   - 'cognito-identity.us-east-1.amazonaws.com'
+  - 'd1imosqlhij19v.cloudfront.net'
   - 'd1yprpojhqvser.cloudfront.net'
+  - 'd3ohh9b4v3oawh.cloudfront.net'
+  - 'dyqv1d0rgwsrm.cloudfront.net'
   - 'ge6ltr6eyjdqdjb2e62htzhpv4.appsync-api.us-west-2.amazonaws.com'
   - '+.images-amazon.com'
   - '+.kindle.amazon.dev'
