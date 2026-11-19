@@ -320,6 +320,7 @@ payload:
   - '+.steamstatic.com.8686c.com'
   - '+.steamusercontent.com'
   - '+.suningbank.com'
+  - 'sync.datamate.kindle.amazon.dev'
   - '+.tanx.com'
   - '+.tapad.com'
   - '+.tctpwebankcdn.net'
