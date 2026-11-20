@@ -31,6 +31,7 @@ payload:
   - '+.android.com'
   - 'ap.lijit.com'
   - 'api-production.8-lives-cat.io'
+  - 'api.ipify.org'
   - 'api.onesignal.com'
   - '+.app-ads-services.com'
   - '+.app-analytics-services.com'
