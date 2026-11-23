@@ -86,8 +86,6 @@ payload:
   - 'bids.ws'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
   - '+.blogsys.jp'
-  - 'blz-contentstack-assets.akamaized.net'
-  - 'blz-contentstack-images.akamaized.net'
   - '+.braze-images.com'
   - '+.braze.com'
   - '+.browserleaks.net'
