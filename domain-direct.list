@@ -64,6 +64,8 @@ payload:
   - '+.blizzard.com'
   - '+.blizzard.com.edgesuite.net'
   - '+.blizzardgames.cn'
+  - 'blz-contentstack-assets.akamaized.net'
+  - 'blz-contentstack-images.akamaized.net'
   - 'blzddist1-a.akamaihd.net'
   - 'blzddist2-a.akamaihd.net'
   - '+.boc.cn'
